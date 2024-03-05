@@ -69,6 +69,7 @@ public class MenuView extends JFrame {
 		menuLabel.setIcon(new ImageIcon("C:\\Users\\njula\\eclipse-workspace\\SistemBarbearia\\barbearia\\barbeariaImg\\menu.jpg"));
 		setSize(700,710);
 		contentPane.add(menuLabel);
+		//teste
 	}
 
 }
